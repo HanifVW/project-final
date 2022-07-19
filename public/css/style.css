@@ -1,0 +1,211 @@
+.nav-link{
+	list-style: none;
+	justify-content: space-between;
+	display: flex;
+	align-items: center;
+    padding-top: 25px;
+}
+.p1 {
+	font-family: b612;
+	text-decoration: none; 
+	color: #000000;
+    font-size: 32px;
+}
+.p2 {
+	font-family: b612;
+	text-decoration: none; 
+	color: #000000;
+    font-size: 20px;
+    margin-left: 450px;
+    
+}
+.p3 {
+	font-family: b612;
+	text-decoration: none; 
+	color: #000000;
+    font-size: 20px;
+    margin-right: 150px;
+    
+}
+.p4 {
+	font-family: b612;
+	color: #000000;
+    font-size: 24px;
+    margin-left: 50px;
+    padding-top: 15px;
+}
+.form-link{
+    font-family:Basic;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.star{
+    color: red;
+}
+.gender{
+    float: right;
+    margin-top: -50px;
+    margin-right: 405px ;
+}
+.work{
+    float: right;
+    margin-top: -50px;
+    margin-right: 210px ;
+}
+.pinjam{
+    float: right;
+    margin-top: -50px;
+    margin-right: 65px ;
+}
+.pasar{
+    float: right;
+    margin-top: -50px;
+    margin-right: 225px ;
+}
+.saran{
+    float: right;
+    margin-top: -50px;
+    margin-right: 70px ;
+}
+.options{
+    float: right;
+    margin-top: -50px;
+    margin-right: 520px;
+}
+.options1{
+    float: right;
+    margin-top: -50px;
+    margin-right: 231px;
+}
+.input {
+    margin-right: 100px;
+    float: right;
+    width: calc(50% - 100px);
+    border-radius: 20px;
+}
+.legal{
+    margin-top: 2px;
+    width: calc(10% - 10px);
+    border-radius: 5px;
+}
+.date{
+    margin-left: 350px;
+}
+.number{
+    margin-left: 250px;
+}
+.date1{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 300px;
+}
+.date2{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 391px;
+}
+.date3{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 386px;
+}
+.date4{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 380px;
+}
+.date5{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 265px;
+}
+.date6{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 390px;
+}
+.date7{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 375px;
+}
+.date8{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 400px;
+}
+.number1{
+    margin-top: 2px;
+    width: calc(20% - 50px);
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.input1 {
+    margin-top: 2px;
+    width: calc(50% - 100px);
+    border-radius: 5px;
+}
+.img{
+    margin-top: 60px;
+    margin-left: -10px;
+    position: fixed;
+}
+.img1{
+    margin-top: 50px;
+    margin-left: -10px;
+    position: absolute;
+    width: 100%;
+}
+.img2{
+    margin-top: 160px;
+    margin-left: -65px;
+    position: absolute;
+    width: 100%;
+}
+.right{
+    float: right;
+    display: block;
+    margin-top: 25px;
+    margin-right: 15px;
+}
+.right1{
+    float: right;
+    display: block;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+.right3{
+    float: right;
+    display: block;
+    margin-top: 50px;
+    margin-right: -575px;
+}
+.btn{
+	border-radius: 12px;
+	outline: none;
+	border: none;
+	background-color: #1D4185;
+	color: #fff;
+	margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+	cursor: pointer;
+	transition: .5s;
+    font-size: 15px;
+    Padding: 15px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+	background-color: black;
+    transition: 0.4s;
+    cursor: pointer;
+
+}
