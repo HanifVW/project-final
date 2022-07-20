@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>landing page</title>
     <link rel="stylesheet" href="{{asset('css/style2.css')}}">
+    <body background ='images/Group 1507.svg'>
 </head>
 <body>
     <header>
@@ -13,30 +14,24 @@
             <nav>
                 <h2 class="logo">DISKOPINDAG MALANG</h2>
                 <ul>
-                <a href="login"><button type="button">Masuk</button></a>
                     <li><a href="">Tentang Kami</a></li>
                     <li><a href="">Bantuan</a></li>
                 </ul>
             </nav>
             <div class="landing page">
-               <div>
                    <div class="teks1">
-                        <p>DAFTAR USAHA CUKUP</p>
-                        <p>DENGAN SATU KLIK SAJA</p>
+                        <p>SELAMAT DATANG</p>
+                        <p>DI SI MIKRO!</p>
                     </div>
                     <br>
                     <br>
                     <div class="teks2">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante interdum nam tincidunt suspendisse tincidunt.</p>
+                        <p>Monitoring UMKM kini lebih efektif dengan Si Mikro Kapanpun dan dimanapun mendampingi UMKM bersama Si Mikro</p>
                     </div>
                     <br>
                     <br>
-                    <button type="button">DAFTAR</button>
-               </div>
-               <div>
-                    <img src="{{ ('images/Group 1507.svg') }}" width="800px">
-               </div>
-            </div>
+                    <a href="login"><button type="button">MASUK</button></a>
+        </div>
     </header>
     <footer>
         <img src="{{ ('images/Group 1506.svg') }}">
